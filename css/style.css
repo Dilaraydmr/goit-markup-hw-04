@@ -277,15 +277,18 @@ white-space: nowrap;
   background-color: #f4f4fd;
   padding: 120px 0;
   list-style-type: none;
+  border-radius: 0px 0px 4px 4px;
 }
 .section-three-list {
   background-color: #ffffff;
   list-style-type: none;
+  
 }
 .section-three-container {
   margin-bottom: 72px;
   display: flex;
   gap: 24px;
+  
 }
 .section-three-container-div {
   padding: 32px 0;
@@ -331,6 +334,12 @@ white-space: nowrap;
 }
 .section-four-container {
   padding: 120px 0;
+  
+}
+.social-list{
+  display: flex;
+  justify-content: center;
+  gap: 24px;
 }
 .section-four {
   display: flex;
