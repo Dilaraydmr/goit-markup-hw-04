@@ -333,24 +333,27 @@ white-space: nowrap;
   list-style-type: none;
   text-align: center;
 }
+.section-four-container {
+  padding: 120px 0;
+  
+}
 .social-list{
   display: flex;
   justify-content: center;
   gap: 24px;
 }
-.social-link{
+.social-list-li{
+  list-style-type: none;
   width: 40px;
   height: 40px;
+}
+.social-link{
+  
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-icon {
   fill: #f4f4fd;
 }
-.section-four-container {
-  padding: 120px 0;
-  
-}
-
 .section-four {
   display: flex;
   flex-wrap: wrap;
