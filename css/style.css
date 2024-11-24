@@ -364,6 +364,12 @@ white-space: nowrap;
 
 
 }
+.social-link::hover{
+  background-color: #404bbf;
+}
+.social-link::focus{
+  background-color: #404bbf;
+}
 .social-icon {
   fill: #f4f4fd;
 }
