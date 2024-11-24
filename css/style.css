@@ -396,7 +396,16 @@ white-space: nowrap;
   padding: 100px 0;
   
 }
+.footer-icon{
+  fill: #f4f4fd;
+}
 .footer-container{
+  display: flex;
+  align-items: baseline;
+  margin-right: 120px;
+  
+}
+.footer-logo-container{
   display: flex;
   align-items: baseline;
   margin-right: 120px;
@@ -421,4 +430,5 @@ white-space: nowrap;
   letter-spacing: 0.02em;
   max-width: 264px;
   margin-left: 100px;
+
 }
