@@ -345,7 +345,7 @@ white-space: nowrap;
 
 .social-list-li{
   list-style-type: none;
- /* width: 40px;*/
+  width: 40px;
   height: 40px;
   justify-content: center;
 }
