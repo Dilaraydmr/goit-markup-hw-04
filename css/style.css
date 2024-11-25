@@ -350,6 +350,7 @@ white-space: nowrap;
   width: 40px;
   height: 40px;
   justify-content: center;
+  display:inline-block ;
 }
   
 .social-link{
@@ -379,6 +380,10 @@ white-space: nowrap;
   column-gap: 24px;
   row-gap: 48px;
   list-style-type: none;
+}
+.img-container{
+  position: relative;
+  overflow: hidden;
 }
 .section-four-container-div {
   padding: 32px 16px;
